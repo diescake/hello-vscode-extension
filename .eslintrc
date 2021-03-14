@@ -1,0 +1,10 @@
+{
+  "extends": "smarthr",
+  "parser": "@typescript-eslint/parser",
+  "rules": {
+    "no-confusing-arrow": 0,
+    "default-param-last": 0,
+    "no-irregular-whitespace": 0,
+    "react-hooks/exhaustive-deps": 0
+  }
+}
