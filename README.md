@@ -1,2 +1,3 @@
-# hello-vscode-extension
-Hello VSCode extension
+# Hello VSCode extension
+
+Hello hello hello.
